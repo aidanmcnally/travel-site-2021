@@ -4,7 +4,6 @@ import MobileMenu from './modules/MobileMenu';
 import RevealOnScroll from './modules/RevealOnScroll';
 import StickyHeader from './modules/StickyHeader';
 
-
 if(module.hot){
      module.hot.accept();
 }
